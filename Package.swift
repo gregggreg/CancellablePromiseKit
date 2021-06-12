@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "CancellablePromiseKit",
     platforms: [
-        .iOS(.v8),
+        .iOS(.v9),
         .macOS(.v10_15),
         .tvOS(.v9)
     ],
